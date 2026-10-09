@@ -28,10 +28,11 @@
 
 ## Tech signals
 
-- Dashboard-heavy SPA: widgets, charts, query builder, filter state.
-- Exact stack TBD — confirm from codebase before claiming.
+- Dashboard-heavy Reactjs SPA: widgets, charts, query builder, filter state.
+- Nodejs.
 
 ## Screenshots
 
-Images coming later
+![Competitors dashboard — share of voice, coverage over time, sentiment, KPI cards](./images/competitors-dashboard.png)
+![Discovery Beta — topic / spokespeople / organization / product network clusters](./images/discovery-network.png)
 
