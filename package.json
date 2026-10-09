@@ -1,0 +1,13 @@
+{
+  "name": "projects-archive",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Archive monorepo for old projects",
+  "type": "module",
+  "workspaces": [
+    "projects/*"
+  ],
+  "scripts": {
+    "list": "ls -1 projects"
+  }
+}
