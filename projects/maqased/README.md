@@ -1,6 +1,6 @@
-# Maqased (Tour W Shouf / طوف وشوف) — Travel Reservation System
+# Maqased (Touf W Shouf / طوف وشوف) — Travel Reservation System
 
-> Admin dashboard for a travel/tourism reservation platform ("Tour W Shouf"). Covers the full catalog-to-booking chain: cities, locations, categories, services, service providers, programs/offers, pricing, scheduling, galleries, ratings, reservations, subscriptions, and users. Bilingual Arabic/English with RTL/LTR layouts.
+> Admin dashboard for a travel/tourism reservation platform ("Touf W Shouf"). Covers the full catalog-to-booking chain: cities, locations, categories, services, service providers, programs/offers, pricing, scheduling, galleries, ratings, reservations, subscriptions, and users. Bilingual Arabic/English with RTL/LTR layouts.
 
 
 ## What it does
